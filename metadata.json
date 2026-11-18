@@ -1,0 +1,6 @@
+{
+  "name": "L'Addition Fiscale — Impôts, Aides & Finance",
+  "description": "Simulateur visuel et éducatif des 110+ impôts, cotisations, aides sociales, holdings et valorisations d'entreprises en France (2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
